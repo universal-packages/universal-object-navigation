@@ -1,7 +1,7 @@
 {
   "name": "@universal-packages/object-navigation",
   "version": "1.0.0",
-  "description": "Simple object-navigation management using paths",
+  "description": "Object navigation tools to reach and analyze a path to an object property.",
   "author": "David De Anda <david@universal-packages.com> (https://github.com/universal-packages)",
   "license": "MIT",
   "main": "index.js",

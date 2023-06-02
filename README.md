@@ -4,7 +4,7 @@
 [![Testing](https://github.com/universal-packages/universal-object-navigation/actions/workflows/testing.yml/badge.svg)](https://github.com/universal-packages/universal-object-navigation/actions/workflows/testing.yml)
 [![codecov](https://codecov.io/gh/universal-packages/universal-object-navigation/branch/main/graph/badge.svg?token=CXPJSN8IGL)](https://codecov.io/gh/universal-packages/universal-object-navigation)
 
-For those not so common situations where you just want to know the composition of a complex object to analyze and probably recompose such object.
+Object navigation tools to reach and analyze a path to an object property.
 
 ## Install
 
