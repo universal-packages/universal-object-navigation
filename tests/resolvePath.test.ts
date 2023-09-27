@@ -1,6 +1,6 @@
 import { resolvePath } from '../src'
 
-describe('resolvePath', (): void => {
+describe(resolvePath, (): void => {
   it('cleans up paths and resolve array paths', async (): Promise<void> => {
     expect(resolvePath('')).toBe('')
     expect(resolvePath('/')).toBe('')

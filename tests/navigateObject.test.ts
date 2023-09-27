@@ -1,6 +1,6 @@
 import { navigateObject } from '../src'
 
-describe('navigateObject', (): void => {
+describe(navigateObject, (): void => {
   it('navigates an object and maps the traverse path', (): void => {
     const objectToNavigate = {
       a: {
