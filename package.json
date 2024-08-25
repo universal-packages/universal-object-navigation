@@ -1,6 +1,6 @@
 {
   "name": "@universal-packages/object-navigation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Object navigation tools to reach and analyze a path to an object property.",
   "author": "David De Anda <david@universal-packages.com> (https://github.com/universal-packages)",
   "license": "MIT",
